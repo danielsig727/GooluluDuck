@@ -1,0 +1,4 @@
+requests[secure]
+slackclient
+slackbot
+opencc
